@@ -1,4 +1,4 @@
-# Fifa Player Eda - Capstone
+# Fifa Player Data Analysis - Capstone Project
 
 Capstone project on FIFA Player Data Analysis using Python and Exploratory Data Analysis (EDA).
 
